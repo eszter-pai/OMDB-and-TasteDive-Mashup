@@ -1,5 +1,5 @@
 # OMDB-and-TasteDive-Mashup
-This hadns-on project is in the Python 3 Programming Specialization offered by University of Michigan via Coursera. 
+This hands-on project is in the Python 3 Programming Specialization offered by University of Michigan via Coursera. 
 Mashing up data from two different APIs to make movie recommendations. 
 
 #### The TasteDive API provides a movie (or bands, TV shows, etc.) as a query input, and returns a set of related items. 
